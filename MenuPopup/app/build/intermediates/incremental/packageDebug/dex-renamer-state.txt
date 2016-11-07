@@ -1,0 +1,7 @@
+#Sun Oct 30 17:34:34 CET 2016
+base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\MenuPopup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_524912d377cb9272034db2d1249953e3adc492be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Usuario\\AndroidStudioProjects\\MenuPopup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_25cbb3e9c73168d58d93ba2347ead4f51295f91d\\classes.dex
+base.1=C\:\\Users\\Usuario\\AndroidStudioProjects\\MenuPopup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_25cbb3e9c73168d58d93ba2347ead4f51295f91d
+file.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\MenuPopup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_524912d377cb9272034db2d1249953e3adc492be\\classes.dex
